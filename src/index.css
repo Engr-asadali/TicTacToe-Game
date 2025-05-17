@@ -1,0 +1,9 @@
+body {
+    margin: auto;
+    display: grid;
+    min-width: 320px;
+    min-height: 100vh;
+
+    height: 100vh;
+    background: linear-gradient(#000000, rgb(39, 16, 16),  rgb(146, 2, 2));
+}
